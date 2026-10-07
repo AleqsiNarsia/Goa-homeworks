@@ -1,0 +1,53 @@
+Hardware and Software
+
+Hardware - es aris iseti nawilebi risi shexebac chven shegvidlia xelit
+
+magalitad:
+
+Cpu-(kompiuteris tvini)
+Gpu-(videobarati)
+ram-(operatiuli) da aseshemdeg
+
+Software-s rac sheexeba is aris yvela is programa rac kompiutershi gvaqvs
+
+magalitad:
+
+google
+Dc-(Discord)
+Cs2-(Counter strike 2) da aseshemdeg
+
+Ra aris kompiuteri-kompiuteri gvexmareba informaciis swrafad damushavebashi da sxvadasxva davalebis shesrulebashi
+
+xolo rogor viyenebt mas..
+
+1.informaciis mosadzieblad
+2.tamshebistvis
+3.programirebis saswavleblad (rasac axla vaketeb) 
+4.videoebis da fotoebis samontajod da aseshemdeg......
+
+
+23=10111
+24=11000
+25=11001
+26=11010
+27=11100
+28=11101
+29=11110
+30=11111
+
+
+Low-level programirebis ena
+kompiuteris aparaturastan dzalian axlosaa.kodi ufro rtulad iwereba,magram pirdapir da zustad akontroleb
+
+magalitad:
+
+Machine code
+Assembly
+
+Hight-level programirebis ena 
+adamianistvis ufro martivi da gasagebi enaa
+
+magalitad:
+Python
+C++
+java
