@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 x = 3+2
 y = "lasha lomidze"
 
