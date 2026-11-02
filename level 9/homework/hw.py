@@ -34,7 +34,7 @@ num2 = float(input("მეორე რიცხვი: "))
 
 if num1 > num2:
     print(f"პირველი რიცხვი {num1} უფრო დიდია.")
-elif num2 > num1:
+if num2 > num1:
     print(f"მეორე რიცხვი {num2} უფრო დიდია.")
 else:
     print("ორივე რიცხვი ტოლია.")
